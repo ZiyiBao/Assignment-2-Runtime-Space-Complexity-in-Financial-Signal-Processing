@@ -2,9 +2,7 @@ Runtime & Space Complexity in Financial Signal Processing
 Overview:
 
 This project compares two moving average trading strategies to analyze how
-algorithmic design choices affect runtime and memory usage. The focus is on
-Big-O complexity and empirical performance profiling rather than trading
-profitability.
+algorithmic design choices affect runtime and memory usage. 
 
 Data:
 
@@ -89,5 +87,6 @@ main.py
 
 Tests:
 tests.py
+
 
 
